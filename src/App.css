@@ -1,0 +1,8 @@
+/* Icono cart en el nav */
+.iconCart{
+    position: absolute;
+    top:2.5rem;
+    right: 3rem;
+    color: #fff;
+    font-size: 2rem;
+}

@@ -6,6 +6,7 @@ import { Nav,
          NavBtn, 
          NavBtnLink 
         } from './NavbarElements';
+ 
 
 const Navbar = () => {
     return (
@@ -32,7 +33,7 @@ const Navbar = () => {
                   <NavLink to="/contacto" activeStyle>
                       Contacto
                   </NavLink>
-              </NavMenu>
+                </NavMenu>
               <NavBtn>
                     <NavBtnLink to="/signin">Sign In</NavBtnLink>
               </NavBtn>
